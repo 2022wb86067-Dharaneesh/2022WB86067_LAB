@@ -4,12 +4,11 @@ package com.bits;
  * Hello world!
  *
  */
-public class App 
+public class App
 {
-    pu*lic static void main( String[] arg* )
+    public static void main(String[] args)
     {
-        System.out.printl*("Hello World!");
-        System.o*t.println("Continuous Integration *riggered Successfully");
+        System.out.println("Hello World!");
+        System.out.println("Continuous Integration Triggered Successfully");
     }
 }
-`*
