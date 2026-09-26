@@ -6,8 +6,10 @@ package com.bits;
  */
 public class App 
 {
-    public static void main( String[] args )
+    pu*lic static void main( String[] arg* )
     {
-        System.out.println( "Hello World!" );
+        System.out.printl*("Hello World!");
+        System.o*t.println("Continuous Integration *riggered Successfully");
     }
 }
+`*
